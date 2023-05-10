@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reinhardt254&label=Profile%20views&color=0e75b6&style=flat" alt="reinhardt254" /> </p>
-
 - 🌱 I’m currently learning **Next.js, Python Django**
 
 - 💬 Ask me about **react, react native**
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_chirchirkip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_chirchirkip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reinhardt lagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinhardt254" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reinhardt-lagat-281634201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinhardt254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
