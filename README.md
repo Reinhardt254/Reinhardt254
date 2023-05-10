@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinhardt254&label=Profile%20views&color=0e75b6&style=flat" alt="reinhardt254" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_chirchirkip" target="blank"><img src="https://img.shields.io/twitter/follow/_chirchirkip?logo=twitter&style=for-the-badge" alt="_chirchirkip" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Python Django**
 
 - 💬 Ask me about **react, react native**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_chirchirkip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_chirchirkip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reinhardt254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinhardt254" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reinhardt lagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinhardt254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
