@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reinhardt Lagat</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h1>Hi 👋, I'm Reinhardt Lagat</h1>
+<h3>A passionate Fullstack Developer</h3>
 
 
 <img  alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
