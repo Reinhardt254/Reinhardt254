@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reinhardt Lagat</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-<img align="left" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left">      
+<img  alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
+    
 <p>- 🌱 I’m currently learning **Next.js, Python Django**</p>
 
 <p>- 💬 Ask me about **react, react native**</p>
@@ -11,7 +13,7 @@
 <p>- 👯 I’m looking to collaborate on any open source project.</p>
 
 <p>- 📫 How to reach me **reinhardtlagat@gmail.com**</p>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
