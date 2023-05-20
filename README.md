@@ -1,8 +1,7 @@
-<p>
-<h1 align="left">Hi 👋, I'm Reinhardt Lagat</h1> 
+
+<h1">Hi 👋, I'm Reinhardt Lagat</h1> 
+<h3 align="left>A Fullstack Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=reinhardt254&label=Profile%20views&color=0e75b6&style=flat" alt="reinhardt254" /> </p>
-</p>
-<h3>A Fullstack Developer</h3>
 <h3>Bsc Computer Science</h3>
 
 
