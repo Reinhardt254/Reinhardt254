@@ -8,7 +8,7 @@
 
 
     
-<p>- 🌱 I’m currently learning **Next.js, Python Django**</p>
+<p>- 🌱 I’m currently learning **Python Django**</p>
 
 <p>- 💬 Ask me about **react, react native**</p>
 
