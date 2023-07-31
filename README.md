@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Reinhardt Lagat</h1> 
-<h3 align="left">A Fullstack Developer || Backend Engineer</h3>
+<h3 align="left">A Fullstack Developer</h3>
 
 <h3>Bsc Computer Science</h3>
 
