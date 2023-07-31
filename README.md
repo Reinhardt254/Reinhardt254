@@ -14,7 +14,7 @@
 
 <p>- 👯 I’m looking to collaborate on any open source project.</p>
 
-<p>- 👯 Open to new opportunities.</p>
+<p>- 🙇 Open to new opportunities.</p>
 
 <p>- 📫 How to reach me **reinhardtlagat@gmail.com**</p>
 
