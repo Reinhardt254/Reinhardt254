@@ -12,7 +12,7 @@
 
 <p>- 💬 Ask me about **react, react native**</p>
 
-<p>- 👯 I’m looking to collaborate on any open source project.</p>
+<p>- 👋 I’m looking to collaborate on any open source project.</p>
 
 <p>- 🙇 Open to new opportunities.</p>
 
