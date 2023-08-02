@@ -1,4 +1,4 @@
-<h2>Hi 👋</h2> 
+<h2>Hi 👋🏼</h2> 
 <h2>I'm Reinhardt Lagat</h2>
 <h3>A Software Engineer👨🏾‍💻</h3>
 
