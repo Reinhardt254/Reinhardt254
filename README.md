@@ -1,6 +1,6 @@
 <h1>Hi 👋,</h1> 
 <h1>I'm Reinhardt Lagat</h1>
-<h2>👨🏾‍💻 A Software Engineer</h2>
+<h2>A Software Engineer👨🏾‍💻</h2>
 
 
 
