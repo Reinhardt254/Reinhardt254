@@ -7,7 +7,7 @@
 <img  alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-<h3>About Me</h3>
+<h1>About Me</h1>
 
 <div>
 <p>- 📝 Bsc Computer Science
