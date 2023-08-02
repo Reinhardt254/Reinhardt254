@@ -1,13 +1,15 @@
-<h1>Hi 👋, I'm Reinhardt Lagat</h1> 
-<h3 align="left">A Fullstack Developer</h3>
+<h1>Hi 👋,</h1> 
+<h1>I'm Reinhardt Lagat</h1>
+<h3 align="left">-A Fullstack Developer</h3>
 
-<h3>Bsc Computer Science</h3>
 
 
 <img  alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-<h3>About Me</h3>    
+<h3>About Me</h3>
+<p>- 📝 Bsc Computer Science
+<p>    
 <p>- 🌱 I’m currently learning **Python Django**</p>
 
 <p>- 💬 Ask me about **react, react native**</p>
