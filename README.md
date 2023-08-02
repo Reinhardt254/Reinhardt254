@@ -1,6 +1,6 @@
 <h1>Hi 👋,</h1> 
 <h1>I'm Reinhardt Lagat</h1>
-<h3 align="left">-A Fullstack Developer</h3>
+<h3 align="left">- 👨🏾‍💻 A Software Engineer</h3>
 
 
 
