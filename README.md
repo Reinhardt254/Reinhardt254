@@ -1,5 +1,5 @@
 <h2>Hi 👋🏼</h2> 
-<h2>I'm Reinhardt</h2>
+<h2>I'm Reinhardt Chirchir</h2>
 <h3>A Software Engineer👨🏽‍💻</h3>
 
 
