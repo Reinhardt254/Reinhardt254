@@ -12,7 +12,7 @@
 <div>
 <p>- 📝 Bsc Computer Science
 <p>    
-<p>- 🌱 I’m currently learning **Python Django**</p>
+<p>- 🌱 I’m currently learning **Python Django** </p>
 
 <p>- 💬 Ask me about **react, react native**</p>
 
