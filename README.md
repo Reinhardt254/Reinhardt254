@@ -1,7 +1,6 @@
 <h2>Hi 👋🏼</h2> 
 <h2>I'm Chirchir Reinhardt</h2>
 <h3>A Software Engineer👨🏽‍💻</h3>
-<br>
 
 
 
