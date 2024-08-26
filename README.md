@@ -10,17 +10,17 @@
 <h3>About Me</h3>
 
 <div>
-<p>- 📝 Bsc Computer Science
-<p>    
-<p>- 🌱 I’m currently learning **Python Django** </p>
+- 📝 Bsc Computer Science
+ 
+- 🌱 I’m currently learning **Python Django**
 
-<p>- 💬 Ask me about **react, react native**</p>
+- 💬 Ask me about **react, react native**
 
-<p>- 👋 I’m looking to collaborate on any open source project.</p>
+- 👋 I’m looking to collaborate on any open source project.
 
-<p>- 🙇 Open to new opportunities.</p>
+- 🙇 Open to new opportunities.
 
-<p>- 📫 How to reach me *reinhardtlagat@gmail.com*</p>
+<- 📫 How to reach me *reinhardtlagat@gmail.com*
 </div>
 
 <p> <img src="https://komarev.com/ghpvc/?username=reinhardt254&label=Profile%20views&color=0e75b6&style=flat" alt="reinhardt254" /> </p>
