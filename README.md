@@ -20,6 +20,8 @@
 - 🙇 Open to new opportunities.
 
 - 📫 How to reach me *reinhardtlagat@gmail.com*
+  
+- ⚡ Fun fact: I love adventure ✈️
 
 <p> <img src="https://komarev.com/ghpvc/?username=reinhardt254&label=Profile%20views&color=0e75b6&style=flat" alt="reinhardt254" /> </p>
 
