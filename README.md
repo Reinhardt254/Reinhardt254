@@ -11,7 +11,7 @@
 
 - 📝 Bsc Computer Science
  
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I love building stuff
 
 - 💬 Ask me about **react, react native**
 
